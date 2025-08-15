@@ -8,6 +8,9 @@ Mentor: NEELA SANTOSH KUMAR
 ##Overview of Project
 Project Title: Automated Internship Performance Report Generator
 
+<img width="1920" height="1080" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/67d95436-284d-42a4-bb3e-1ebc2263042e" />
+
+
 Objective:
 The project automates the process of reading students’ internship performance data from a CSV file, analyzing their scores, and generating a professional PDF certificate/report containing both individual results and statistical summaries.
 
